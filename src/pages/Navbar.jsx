@@ -12,7 +12,7 @@ function Navbar() {
       initial={{y: '-100vh'}}
       animate={{ y: 0 }}
       transition={{delay: 0.5, duration: 0.5,type: 'spring', stiffness: 50}}
-      className='flex justify-between mb-12 relative px-10 border-b top-7 md:top-0 md:px-[70px] border-arinze-blue py-[60px] md:py-[6px] items-center'>
+      className='flex justify-between mb-10 relative px-10 border-b top-7 md:top-0 md:px-[70px] border-arinze-blue py-[60px] md:py-[6px] items-center'>
       <div className='md:flex flex-col hidden justify-center items-center'>
         <div className='text-[16px] text-A-writeup '><p className=' text-nowrap'>Let’s Connect:</p>
           <div className='flex w-6'>

@@ -10,11 +10,12 @@ function App() {
     <div className="">
       <Navbar />
       <Info />
-      <About />
-      <Proficiency />
       <Project
         ProjectContent={ProjectContent}
       />
+      <About />
+      <Proficiency />
+      
     </div>
   );
 }
