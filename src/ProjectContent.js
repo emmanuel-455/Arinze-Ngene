@@ -8,21 +8,18 @@ const ProjectContent = [
   {
     id: 1,
     image: daluWorkImage,
-    heading: "Chidalu Ugwu (ReactjS)",
     site: "http://dalu-psi.vercel.app",
     source: "https://github.com/emmanuel-455/dalu"
   },
   {
     id: 2,
     image: nimoImage,
-    heading: "Ngene Arinze (ReactjS)",
-    site: "https://ngene-arinze.vercel.app",
-    source: "https://github.com/emmanuel-455/ngene-arinze"
+    site: "https://arinze-ngene.vercel.app",
+    source: "https://github.com/emmanuel-455/Arinze-Ngene"
   },
   {
     id: 3,
     image: gpt3Image,
-    heading: "GPT3 (ReactjS)",
     site: "https://gpt3-reactjs-website-project.vercel.app",
     source: "https://github.com/emmanuel-455/gpt3_Reactjs_website_project"
   },
