@@ -20,12 +20,12 @@ function About() {
         </div>
       </div>
 
-      <div className='md:flex md:justify-between px-6 md:px-[150px]'>
+      <div className='md:flex md:justify-between pl-6 pr-4 md:px-[150px]'>
         <div className=' md:w-[50%] mb-10'>
         <div className='border-b mb-3 text-lg border-arinze-blue'>
           <h1 className='font-semibold'>Introduction</h1>
           </div>
-          <div className='text-[15px] text-A-writeup pr-1'>
+          <div className='text-[14px] text-A-writeup pr-1'>
           <p className='mb-3 md:mb-5'>Hey there! I'm Ngene Arinze Emmanuel, a Web Designer with a passion for crafting immersive digital experiences. Over the past decade, I've delved into the world of web design, blending creativity and technical finesse to weave digital magic.</p>
           <p className='mb-3 md:mb-5'>My portfolio speaks volumes about my dedication to creating visually stunning websites that not only catch the eye but also elevate user experiences. From startups to established brands, I've collaborated on projects showcasing my ability to translate ideas into functional, responsive, and visually captivating digital spaces.</p>
           <p className='mb-3 md:mb-5'>Staying attuned to design trends, I ensure that my work has a timeless quality while incorporating the latest tools and technologies. With a toolbox filled with design tools and technologies, I effortlessly bring conceptual visions to life.</p>
