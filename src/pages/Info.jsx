@@ -44,7 +44,7 @@ function Info() {
           className='mt-5 md:mt-0 pb-16 border-b border-A-writeup pt-[40px] md:pt-0'>
           <p className='font-semibold md:text-[65px] text-[45px] leading-[50px] md:leading-snug mb-7 text-center m-auto  md:w-[70%] px-3 mt-4'>crafting immersive and visually stunning web experiences</p>
           <div className="md:flex md:justify-center md:items-center">
-            <p className='md:text-[20px] text-[15px] text-A-writeup font-normal'>Interested in working with me? </p><a className="text-[21px] flex justify-center items-center ml-2" href="">Book a Call <img className="ml-2 text-[20px]" src={Arrow} alt="" /></a>
+            <p className='md:text-[20px] text-[15px] text-A-writeup font-normal'>Interested in working with me? </p><a className="text-[19px] flex justify-center font-medium items-center ml-2" href="">Book a Call <img className="ml-2 text-[20px]" src={Arrow} alt="" /></a>
           </div>
         </motion.div>
         {/* <motion.button
