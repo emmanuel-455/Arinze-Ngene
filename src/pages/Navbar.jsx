@@ -8,7 +8,7 @@ function Navbar() {
       initial={{y: '-100vh'}}
       animate={{ y: 0 }}
       transition={{delay: 0.5, duration: 0.5,type: 'spring', stiffness: 50}}
-      className='flex justify-between px-4 border-b md:border-b-0 border-arinze-blue py-4 items-center md:py-5 md:px-11'>
+      className='flex justify-between px-4 border-b md:border-b-0 border-arinze-blue py-1 items-center md:py-5 md:px-11'>
       <div>
        <img className='w-[30%]' src={logo} alt="" />
       </div>
