@@ -61,7 +61,7 @@ function About() {
             </div>
             <div className='flex mb-1 justify-between'>
               <p className=' text-nowrap'>3. Community Involvement</p>
-              <div className='flex items-center justify-end'><img className='w-[12%] mr-1' src={Award} alt="" /><a className=' text-sm text-A-writeup text-nowrap' href="">Centadesk</a></div>
+              <div className='flex items-center justify-end'><img className='w-[14%] mr-1' src={Award} alt="" /><a className=' text-sm text-A-writeup text-nowrap' href="">Centadesk</a></div>
             </div>
             <div className='flex mb-1 justify-between'>
               <p className=' text-nowrap'>4. Personal Projects</p>
