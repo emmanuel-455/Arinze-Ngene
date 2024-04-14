@@ -196,37 +196,37 @@ function About() {
           </div>
 
           <div className='flex justify-between'>
-            <div className='flex flex-col justify-center items-center w-[4.5%] mx-[5px]'>
+            <div className='flex flex-col justify-center items-center w-[6%] mx-[4px] md:mx-[5px]'>
               <img className='' src={Html} alt="" />
-              <p className="text-xs text-A-writeup mt-2">HTML</p>
+              <p className="md:text-sm text-[11px] text-A-writeup mt-2">HTML</p>
             </div>
-            <div className='flex flex-col justify-center items-center w-[4.5%] mx-[5px]'>
+            <div className='flex flex-col justify-center items-center w-[6%] mx-[4px] md:mx-[5px]'>
               <img className='' src={CSS} alt="" />
-              <p className="text-xs text-A-writeup mt-2">CSS</p>
+              <p className="md:text-sm text-[11px] text-A-writeup mt-2">CSS</p>
             </div>
-            <div className='flex flex-col justify-center items-center w-[4.5%] mx-[5px]'>
+            <div className='flex flex-col justify-center items-center w-[6%] mx-[4px] md:mx-[5px]'>
               <img className='' src={JS} alt="" />
-              <p className="text-xs text-A-writeup mt-2">javaScript</p>
+              <p className="md:text-sm text-[11px] text-A-writeup mt-2">javaScript</p>
             </div>
-            <div className='flex flex-col justify-center items-center w-[4.5%] mx-[5px]'>
+            <div className='flex flex-col justify-center items-center w-[6%] mx-[4px] md:mx-[5px]'>
               <img className='' src={Reactjs} alt="" />
-              <p className="text-xs text-A-writeup mt-2">Reactjs</p>
+              <p className="md:text-sm text-[11px] text-A-writeup mt-2">Reactjs</p>
             </div>
-            <div className='flex flex-col justify-center items-center w-[4.5%] mx-[5px]'>
+            <div className='flex flex-col justify-center items-center w-[6%] mx-[4px] md:mx-[5px]'>
               <img className='' src={T} alt="" />
-              <p className="text-xs text-A-writeup mt-2">TailwindCSS</p>
+              <p className="md:text-sm text-[11px] text-A-writeup mt-2">Tailwind</p>
             </div>
-            <div className='flex flex-col justify-center items-center w-[4.5%] mx-[5px]'>
+            <div className='flex flex-col justify-center items-center w-[6%] mx-[4px] md:mx-[5px]'>
               <img className='' src={api} alt="" />
-              <p className="text-xs text-A-writeup mt-2">API</p>
+              <p className="md:text-sm text-[11px] text-A-writeup mt-2">API</p>
             </div>
-            <div className='flex flex-col justify-center items-center w-[4.5%] mx-[5px]'>
+            <div className='flex flex-col justify-center items-center w-[6%] mx-[4px] md:mx-[5px]'>
               <img className='' src={nodejs} alt="" />
-              <p className="text-xs text-A-writeup mt-2">Nodejs</p>
+              <p className="md:text-sm text-[11px] text-A-writeup mt-2">Nodejs</p>
             </div>
-            <div className='flex flex-col justify-center items-center w-[4.5%] mx-[5px]'>
+            <div className='flex flex-col justify-center items-center w-[6%] mx-[4px] md:mx-[5px]'>
               <img className='' src={figma} alt="" />
-              <p className="text-xs text-A-writeup mt-2">Figma</p>
+              <p className="md:text-sm text-[11px] text-A-writeup mt-2">Figma</p>
             </div>
           </div>
           </div>
