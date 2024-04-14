@@ -56,7 +56,7 @@ function Info() {
     whileHover={{ scale: 1.1, boxShadow: "0px 0px 8px rgb(114,203,231)", textShadow: "0px 0px 2px rgb(114,203,231)"}}
     className="cursor-pointer flex border-[1px] border-arinze-blue pl-3 pr-5 py-2 ml-3 items-center rounded-md text-arinze-blue tracking-wider shadow-xl"
   >
-    <a href="https://drive.google.com/file/d/1pGNSQjPPmNV9ixgm1VrpDjKKaQVSako1/view?usp=sharing" className='ml-2 text-arinze-blue font-medium text-[14px]'>Download Resume</a>
+    <a href="https://drive.google.com/file/d/14D6v8dZ-i9tcP12t0usyyIeFwPiX_N3Y/view?usp=drive_link" className='ml-2 text-arinze-blue font-medium text-[14px]'>Download Resume</a>
   </motion.button>
 </div>
         </motion.div>
