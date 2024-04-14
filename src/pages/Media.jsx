@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
-//import YT from '../components/YT';
-//import axios from 'axios';
+import Dune from "../asset/Dune.jpg"
+import Spotify from "../asset/Spotify.png"
+import Netflix from "../asset/Netflix.png"
 
 function Media() {
   const [songInfo, setSongInfo] = useState({
@@ -97,25 +98,46 @@ function Media() {
     // Clear interval on component unmount
     return () => clearInterval(interval);
   }, []);
-  return (
-    <>
-      <div>
-      <h1 className="font-semibold text-center pt-[150px] md:pt-[144px] mb-10 text-A-writeup text-[30px]">Media</h1>
-      <div className='mb-5 flex  justify-center'>
-    <div className='flex items-center border-[1px] border-A-writeup w-full mx-7 md:w-[420px]'>
-      <img className='w-[100px] md:w-[110px]' src={songInfo.songImageUrl} alt="Music" />
-      <div className='ml-2 md:ml-[10px]'>
-        <p className='border-A-writeup border-[1px] px-2 mb-1 text-gray-300 inline text-[13px]'>Listened to</p>
-        <p className='text-[15px] text-gray-300 font-bold mt-[5px]'>{songInfo.songName}</p>
-        <p className='text-[15px] text-gray-300  mt-[3px]'>{songInfo.songArtist}</p>
-      </div>
-    </div>
-  </div>
-      </div>
 
-    </>
+  return (
     
-  )
+      <div className='w-full flex flex-col justify-center mb-10 items-center'>
+        <h1 className="font-semibold pt-24 md:pt-20 mb-10 text-A-writeup text-4xl">Media</h1>
+        <div className='flex w-full md:w-[500px] flex-col'>
+        <div className='w-full items-center justify-center'>
+          <div className='flex items-center mb-4'>
+            <img className='w-[8%]' src={Spotify} alt="" />
+            <p className='text-lg'>Spotify</p>
+          </div>
+          <div className='mb-5 w-full flex'>
+            <div className='flex items-center w-full bg-[#3d3d3d]'>
+              <img className='w-[100px] md:w-[110px]' src={songInfo.songImageUrl} alt="Music" />
+              <div className='pl-2  w-[100%] md:pl-[10px]'>
+                <p className='border-A-writeup border-[1px] px-2 mb-1 text-gray-300 mt-2 inline text-[13px]'>Listened to</p>
+                <p className='text-[15px] text-gray-300 font-bold mt-[5px]'>{songInfo.songName}</p>
+                <p className='text-[15px] text-gray-300  mt-[3px]'>{songInfo.songArtist}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className='w-full items-center justify-center'>
+          <div className='flex items-center '>
+            <img className='w-[15%]' src={Netflix} alt="" />
+          </div>
+          <div className='mb-5 flex'>
+            <div className='flex items-center w-full bg-[#3d3d3d]'>
+              <img className='w-[120px] h-[120px] md:w-[110px]' src={Dune} alt="Music" />
+              <div className='pl-2 w-full md:pl-[10px]'>
+                <p className='border-A-writeup border-[1px] px-2 mb-1 text-gray-300 mt-2 inline text-[13px]'>Watched</p>
+                <p className='text-[15px] text-gray-300 font-bold mt-[5px]'>Dune: Part Two</p>
+                <p className='text-[15px] text-gray-300  mt-[3px]'>2024 ‧ Sci-fi/Adventure ‧ 2h 46m</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+  );
 }
 
-export default Media
+export default Media;
