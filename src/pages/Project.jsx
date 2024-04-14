@@ -4,7 +4,7 @@ import ProjectCard from '../components/ProjectCard';
 
 function Project(props) {
   return (
-    <div id='Project'>
+    <div className='pb-[100px] pt-16' id='Project'>
       <h1 className="text-center mb-[60px] text-A-writeup font-semibold text-[30px]">Project</h1>
       <div className='flex overflow-x-auto '>
         {props.ProjectContent.map((card) => (

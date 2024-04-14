@@ -13,7 +13,7 @@ import figma from "../asset/figma-stack.svg"
 function About() {
   return (
     <div id="About">
-      <h1 className="font-semibold text-center pt-[150px] md:pt-[144px] mb-10 text-A-writeup text-[30px]">About Me</h1>
+      <h1 className="font-semibold text-center pt-[100px] md:pt-[144px] mb-10 text-A-writeup text-[30px]">About Me</h1>
       <div className="md:flex grid items-center md:justify-between md:px-[100px] flex-wrap md:mt-[100px] md:mb-20 mb-12 m-auto">
         <div className="text-center md:border-s-4 my-5 px-9 md:border-arinze-blue md:pl-16">
           <p className="mb-3 text-arinze-blue font-medium text-[15px]">Experience</p>
@@ -56,7 +56,7 @@ function About() {
               <div className='flex mb-1 items-center justify-end'><img className='w-[12%] mr-1' src={Award} alt="" /><a className=' text-sm text-A-writeup text-nowrap' href="">Udemy Certificate</a></div>
             </div>
             <div className='flex mb-1 justify-between'>
-              <p className=' text-nowrap'>2. Open Source</p>
+              <p className=' text-nowrap'>2. Open Source (Contributor)</p>
               <div className='flex items-center justify-end'><img className='w-[12%] mr-1' src={Award} alt="" /><a className=' text-sm text-A-writeup text-nowrap' href="">Airbnb/JavaScript</a></div>
             </div>
             <div className='flex mb-1 justify-between'>
