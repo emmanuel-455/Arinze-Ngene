@@ -1,4 +1,5 @@
 import About from './pages/About';
+import Footer from './pages/Footer';
 import Info from './pages/Info';
 import Media from './pages/Media';
 import Navbar from './pages/Navbar';
@@ -16,6 +17,7 @@ function App() {
       />
       <About />
       <Media />
+      <Footer />
     </div>
   );
 }
