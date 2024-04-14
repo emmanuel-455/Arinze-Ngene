@@ -13,7 +13,7 @@ function Footer() {
         <p className='md:hidden text-[16px] mb-2 text-A-writeup'>let's Connect</p>
         <p className='text-[15px] text-A-writeup'>Developer <span className='text-white font-semibold text-[15px] underline'>Ngene Arinze</span></p>
       </div>
-      <a className="text-[19px] md:flex md:block hidden justify-center font-medium items-center ml-2" href="">Book a Call <img className="ml-2 text-[20px]" src={Arrow} alt="" /></a>
+      <a className="text-[19px] md:flex md:block hidden justify-center font-medium items-center ml-2" href="tel:+2347041162691">Book a Call <img className="ml-2 text-[20px]" src={Arrow} alt="" /></a>
       <div>
         <div className='flex mb-2 md:hidden w-[110px]'>
           <a href="https://twitter.com/priestnuel4"><img src={X} alt="" /></a>
