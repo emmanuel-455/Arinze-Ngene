@@ -97,20 +97,20 @@ function About() {
               <h1 className='text-[16px] font-semibold'>Frontend Developer</h1>
               <p className="text-[13px] text-A-writeup mb-2">Baddhia LLC, lagos, nigeria | 2023 (Contract)</p>
               <ul className="text-A-writeup text-[14px]">
-                <li>1. Designed and implemented user interfaces for web applications, focusing on usability, accessibility, and modern design aesthetics.</li>
-                <li>2. Worked closely with the development team to ensure the seamless integration of design concepts into functional web solutions.</li>
-                <li>3. Played a key role in revamping the company website, resulting in a significant increase in user engagement and conversion rates.</li>
-                <li>4. Conducted usability testing and gathered user feedback to iterate and enhance the user experience continually.</li>
+                <li>1. Designed and implemented frontend functionalities for web applications, prioritizing user experience, accessibility, and modern development standards.</li>
+                <li>2. Collaborated closely with the development team to integrate frontend designs seamlessly into the backend architecture, ensuring efficient communication and code consistency.</li>
+                <li>3. Played a pivotal role in modernizing and enhancing the company's web presence, leading to a substantial boost in user engagement and conversion rates.</li>
+                <li>4. Conducted rigorous testing and collected user feedback to refine and optimize web applications iteratively, resulting in continuous improvements to the user experience.</li>
               </ul>
           </div>
             <div className='mb-5'>
               <h1 className='text-[16px] font-semibold'>Junior Frontend Developer</h1>
               <p className="text-[13px] text-A-writeup mb-2">Centadesk, Enugu, Nigeria | 2022</p>
               <ul className="text-A-writeup text-[14px]">
-                <li>1. Assisted in the design and development of websites for Organization, gaining hands-on experience in the fundamentals of web design.</li>
-                <li>2. Collaborated with senior designers to create wireframes, mockups, and prototypes for client presentations and project approvals.</li>
-                <li>3. Participated in client meetings, contributing design insights and addressing client feedback to ensure project alignment with their vision.</li>
-                <li>4. Acquired proficiency in HTML, CSS, and JavaScript, expanding technical skills in conjunction with evolving design expertise.</li>
+                <<li>1. Collaborated with senior developers to design and implement backend systems and APIs for web applications, ensuring adherence to best practices and scalability requirements.</li>
+                <li>2. Worked closely with the development team, including senior developers, to integrate frontend and backend components seamlessly, fostering efficient communication and teamwork.</li>
+                <li>3. Played a pivotal role in revamping the company's web infrastructure under the guidance of senior developers, contributing to enhanced performance and user satisfaction metrics.</li>
+                <li>4. Conducted thorough testing and gathered feedback in collaboration with senior developers, iterating on web applications to deliver optimal user experiences.</li>
               </ul>
           </div>
           </div>
