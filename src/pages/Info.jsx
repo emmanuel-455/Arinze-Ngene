@@ -30,10 +30,10 @@ function Info() {
             <img src={Close} className='w-6 open mb-3' onClick={closeIcon} alt="" />
           </div>
           <div onClick={closeIcon} className="text-center mt-8">
-            <p className="py-5 text-[15px]"><a href="#Info">Info</a></p>
-            <p className="py-5 text-[15px]"><a href="#Project">Project</a></p>
-            <p className="py-5 text-[15px]"><a href="#About">About</a></p>            
-            <p className="py-5 text-[15px]"><a href="#Media">Media</a></p>
+            <p className="py-5 font-semibold text-[15px]"><a href="#Info">Info</a></p>
+            <p className="py-5 font-semibold text-[15px]"><a href="#Project">Project</a></p>
+            <p className="py-5 font-semibold text-[15px]"><a href="#About">About</a></p>            
+            <p className="py-5 font-semibold text-[15px]"><a href="#Media">Media</a></p>
           </div>
         </div>
       </div>
