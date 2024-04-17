@@ -166,24 +166,24 @@ function About() {
           </div>
           <div className=' pr-1'>
             <div className='mb-3'>
-              <h1 className='text-[14px] font-semibold'>Website Devlopement</h1>
-              <p className='text-14px text-A-writeup'>Designing and developing websites tailored to clients' needs, ranging from simple static sites to complex web applications.</p>
+              <h1 className='text-[16px] font-semibold'>Website Devlopement</h1>
+              <p className='text-[14px] text-A-writeup'>Designing and developing websites tailored to clients' needs, ranging from simple static sites to complex web applications.</p>
           </div>
             <div className='mb-3'>
-              <h1 className='text-[14px] font-semibold'>Responsive Design</h1>
-              <p className='text-14px text-A-writeup'>Ensuring that websites are optimized for various devices and screen sizes, providing a seamless user experience across desktops, tablets, and mobile devices.</p>
+              <h1 className='text-[16px] font-semibold'>Responsive Design</h1>
+              <p className='text-[14px] text-A-writeup'>Ensuring that websites are optimized for various devices and screen sizes, providing a seamless user experience across desktops, tablets, and mobile devices.</p>
           </div>
             <div className='mb-3'>
-              <h1 className='text-[14px] font-semibold'>Frontend Development</h1>
-              <p className='text-14px text-A-writeup'>Building the frontend interface of websites using technologies like HTML, CSS, and JavaScript, and frameworks/libraries like React</p>
+              <h1 className='text-[16px] font-semibold'>Frontend Development</h1>
+              <p className='text-[14px] text-A-writeup'>Building the frontend interface of websites using technologies like HTML, CSS, and JavaScript, and frameworks/libraries like React</p>
           </div>
             <div className='mb-3'>
-              <h1 className='text-[14px] font-semibold'>Backend Development</h1>
-              <p className='text-14px text-A-writeup'>Creating the server-side functionality and database management systems required to power dynamic web applications. This involves using server-side languages like Node.js and database systems like PostgreSQL.</p>
+              <h1 className='text-[16px] font-semibold'>Backend Development</h1>
+              <p className='text-[14px] text-A-writeup'>Creating the server-side functionality and database management systems required to power dynamic web applications. This involves using server-side languages like Node.js and database systems like PostgreSQL.</p>
           </div>
             <div className='mb-3'>
-              <h1 className='text-[14px] font-semibold'>Website Maintenance and Support</h1>
-              <p className='text-14px text-A-writeup'> Providing ongoing maintenance services to ensure websites remain secure, up-to-date, and free from errors. This includes software updates, security patches, and troubleshooting technical issues.</p>
+              <h1 className='text-[16px] font-semibold'>Website Maintenance and Support</h1>
+              <p className='text-[14px] text-A-writeup'> Providing ongoing maintenance services to ensure websites remain secure, up-to-date, and free from errors. This includes software updates, security patches, and troubleshooting technical issues.</p>
           </div>
           </div>
         </div>
