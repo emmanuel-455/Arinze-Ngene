@@ -137,7 +137,7 @@ function About() {
               <h1 className='text-[16px] font-semibold'>Certification in Frontend Development</h1>
               <div className='flex justify-start mb-2 items-center'><p className="text-[13px] mr-3 text-A-writeup ">Udemy Course from Angela yu.</p><a className='underline text-sm' href="https://drive.google.com/file/d/10qw7xXnFtR9PcLwzB0psdL8eOQtyunuw/view?usp=drive_link">Certificate</a></div>
               <ul className="text-A-writeup text-[14px]">
-                <li>1. Undertook an Onlinr Course to deepen knowledge in advanced web development technologies and methodologies.</li>
+                <li>1. Undertook an Online Course to deepen knowledge in advanced web development technologies and methodologies.</li>
                 <li>2. Specialized in the latest design trends, responsive web design, and the integration of interactive elements for enhanced user experiences.</li>
                 <li>3. Completed hands-on projects that involved complex design challenges and solutions, further honing practical skills in the field.</li>
               </ul>
