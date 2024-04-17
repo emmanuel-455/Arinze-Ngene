@@ -107,7 +107,7 @@ function About() {
               <h1 className='text-[16px] font-semibold'>Junior Frontend Developer</h1>
               <p className="text-[13px] text-A-writeup mb-2">Centadesk, Enugu, Nigeria | 2022</p>
               <ul className="text-A-writeup text-[14px]">
-                <<li>1. Collaborated with senior developers to design and implement backend systems and APIs for web applications, ensuring adherence to best practices and scalability requirements.</li>
+                <li>1. Collaborated with senior developers to design and implement backend systems and APIs for web applications, ensuring adherence to best practices and scalability requirements.</li>
                 <li>2. Worked closely with the development team, including senior developers, to integrate frontend and backend components seamlessly, fostering efficient communication and teamwork.</li>
                 <li>3. Played a pivotal role in revamping the company's web infrastructure under the guidance of senior developers, contributing to enhanced performance and user satisfaction metrics.</li>
                 <li>4. Conducted thorough testing and gathered feedback in collaboration with senior developers, iterating on web applications to deliver optimal user experiences.</li>
