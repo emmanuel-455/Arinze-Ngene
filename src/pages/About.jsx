@@ -29,7 +29,7 @@ function About() {
         </div>
       </div>
 
-      <div className='md:flex md:justify-between pl-6 pr-6 md:px-[100px]'>
+      <div className='md:flex md:justify-between px-6 md:px-[100px]'>
         <div className=' md:w-[50%] mb-10'>
         <div className='border-b mb-3 text-lg border-arinze-blue'>
           <h1 className='font-bold text-[20px]'>Introduction</h1>
@@ -75,7 +75,7 @@ function About() {
           </div>
       </div>
 
-      <div className='md:flex md:justify-between pl-6 pr-6 md:px-[100px]'>
+      <div className='md:flex md:justify-between px-6 md:px-[100px]'>
         <div className=' md:w-[50%] mb-10'>
         <div className='border-b mb-3 text-lg border-arinze-blue'>
           <h1 className='font-bold text-[20px]'>Work Experience</h1>
@@ -159,7 +159,7 @@ function About() {
 
 
       <h1 className="font-semibold text-center pt-20 md:pt-[144px] mb-10 text-A-writeup text-[30px]">My Services</h1>
-      <div className='md:flex md:justify-between pl-6 pr-6 md:px-[100px]'>
+      <div className='md:flex md:justify-between px-6 md:px-[100px]'>
         <div className=' md:w-[50%] mb-10'>
         <div className='border-b mb-3 text-lg border-arinze-blue'>
           <h1 className='font-bold text-[20px]'>Services</h1>
