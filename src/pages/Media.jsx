@@ -75,9 +75,9 @@ function Media() {
     };
   
     let access_token;
-    const client_id = 'de4e099723ec4964a2b53eb340ba8672';
-    const client_secret = '1fe4a452c4244f1381dcee4c9fcdffca';
-    const refresh_token = 'AQCMzY0bbcQSTk4JifSWSUKLFagxN256NDqNWQSceA7eMJZ-UnqhJjuz1j38HiJBR1U5RXIaa0ZlaxRID39-5UbQbxdeUe6wFwDSAsViawGInajZ_L7KVT52-E1aCdRcNjo';
+    const client_id = '04e5f488563f453a9550ff94b3d6295b';
+    const client_secret = '9d5fdd0210a645ea998cf0e282efa020';
+    const refresh_token = 'AQAvoj55ir8WPXvrcE_5kMyuQTzXgeA1Fx0BKC2Tz9Peg2bi9WjTLY7Ai3iADcHGG0fOzLzZYc2-eSMb65lGnG-EY_G6D-SnhSRywQn-WyJXmTSH_y0qE9CF87u3vd5133Y';
   
     const updateSongInfo = () => {
       getAccessToken()
