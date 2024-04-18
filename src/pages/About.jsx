@@ -34,7 +34,7 @@ function About() {
         <div className='border-b mb-3 text-lg border-arinze-blue'>
           <h1 className='font-bold text-[20px]'>Introduction</h1>
           </div>
-          <div className='text-[14px] text-A-writeup pr-1'>
+          <div className='text-[14px] text-justify text-A-writeup pr-1'>
           <p className='mb-3 md:mb-5'>Hey there! I'm Ngene Arinze Emmanuel, a Web Developer passionate about building immersive digital experiences. Over the past decade, I've immersed myself in the world of web development, blending technical expertise with creative problem-solving to craft engaging online solutions.</p>
           <p className='mb-3 md:mb-5'>My portfolio showcases my dedication to creating functional and user-friendly websites that meet the unique needs of startups and established brands alike. Through collaborative projects, I've demonstrated my ability to transform ideas into responsive and visually appealing digital platforms.</p>
           <p className='mb-3 md:mb-5'>Staying updated with the latest technologies, I ensure that my work remains cutting-edge while delivering timeless quality. With a diverse skill set and mastery of development tools, I bring conceptual designs to life with precision and efficiency.</p>
@@ -84,7 +84,7 @@ function About() {
             <div className='mb-5'>
               <h1 className='text-[16px] font-semibold'>Freelance Web Development</h1>
               <p className="text-[13px] text-A-writeup mb-2">Present</p>
-              <ul className="text-A-writeup text-[14px]">
+              <ul className="text-A-writeup text-justify text-[14px]">
                 <li>1. Custom website development.</li>
                 <li>2. Client consultation and project scoping.</li>
                 <li>3. Creative conceptualization and design.</li>
@@ -96,7 +96,7 @@ function About() {
             <div className='mb-5'>
               <h1 className='text-[16px] font-semibold'>Frontend Developer</h1>
               <p className="text-[13px] text-A-writeup mb-2">Baddhia LLC, lagos, nigeria | 2023 (Contract)</p>
-              <ul className="text-A-writeup text-[14px]">
+              <ul className="text-A-writeup text-justify text-[14px]">
                 <li>1. Designed and implemented frontend functionalities for web applications, prioritizing user experience, accessibility, and modern development standards.</li>
                 <li>2. Collaborated closely with the development team to integrate frontend designs seamlessly into the backend architecture, ensuring efficient communication and code consistency.</li>
                 <li>3. Played a pivotal role in modernizing and enhancing the company's web presence, leading to a substantial boost in user engagement and conversion rates.</li>
@@ -106,7 +106,7 @@ function About() {
             <div className='mb-5'>
               <h1 className='text-[16px] font-semibold'>Junior Frontend Developer</h1>
               <p className="text-[13px] text-A-writeup mb-2">Centadesk, Enugu, Nigeria | 2022</p>
-              <ul className="text-A-writeup text-[14px]">
+              <ul className="text-A-writeup text-justify text-[14px]">
                 <li>1. Collaborated with senior developers to design and implement backend systems and APIs for web applications, ensuring adherence to best practices and scalability requirements.</li>
                 <li>2. Worked closely with the development team, including senior developers, to integrate frontend and backend components seamlessly, fostering efficient communication and teamwork.</li>
                 <li>3. Played a pivotal role in revamping the company's web infrastructure under the guidance of senior developers, contributing to enhanced performance and user satisfaction metrics.</li>
@@ -127,7 +127,7 @@ function About() {
           <div className='mb-5'>
               <h1 className='text-[16px] font-semibold'>Certification in Advanced Web Development</h1>
               <p className="text-[13px] text-A-writeup mb-2">Centadesk, Enugu, Nigeria | 2022</p>
-              <ul className="text-A-writeup text-[14px]">
+              <ul className="text-A-writeup text-justify text-[14px]">
                 <li>1. Undertook an intensive program to deepen knowledge in advanced web design technologies and methodologies.</li>
                 <li>2. Specialized in the latest design trends, responsive web design, and the integration of interactive elements for enhanced user experiences.</li>
                 <li>3. Completed hands-on projects that involved complex design challenges and solutions, further honing practical skills in the field.</li>
@@ -136,7 +136,7 @@ function About() {
           <div className='mb-5'>
               <h1 className='text-[16px] font-semibold'>Certification in Frontend Development</h1>
               <div className='flex justify-start mb-2 items-center'><p className="text-[13px] mr-3 text-A-writeup ">Udemy Course from Angela yu.</p><a className='underline text-sm' href="https://drive.google.com/file/d/10qw7xXnFtR9PcLwzB0psdL8eOQtyunuw/view?usp=drive_link">Certificate</a></div>
-              <ul className="text-A-writeup text-[14px]">
+              <ul className="text-A-writeup text-justify text-[14px]">
                 <li>1. Undertook an Online Course to deepen knowledge in advanced web development technologies and methodologies.</li>
                 <li>2. Specialized in the latest design trends, responsive web design, and the integration of interactive elements for enhanced user experiences.</li>
                 <li>3. Completed hands-on projects that involved complex design challenges and solutions, further honing practical skills in the field.</li>
@@ -145,7 +145,7 @@ function About() {
           <div className='mb-5'>
               <h1 className='text-[16px] font-semibold'>Mass Communication</h1>
               <div className='flex justify-start mb-2 items-center'><p className="text-[13px] text-A-writeup ">Institute of Management and Technology | Present</p></div>
-              <ul className="text-A-writeup text-[14px]">
+              <ul className="text-A-writeup text-justify text-[14px]">
                 <li>1. Undergoing and acquiring knowledge of mass communication.</li>
                 <li>2. Specializing on Journalism.</li>
                 <li>3. Completed OND project based on journalist investigation on a giving topic.</li>
@@ -164,7 +164,7 @@ function About() {
         <div className='border-b mb-3 text-lg border-arinze-blue'>
           <h1 className='font-bold text-[20px]'>Services</h1>
           </div>
-          <div className=' pr-1'>
+          <div className=' text-justify pr-1'>
             <div className='mb-3'>
               <h1 className='text-[16px] font-semibold'>Website Devlopement</h1>
               <p className='text-[14px] text-A-writeup'>Designing and developing websites tailored to clients' needs, ranging from simple static sites to complex web applications.</p>
