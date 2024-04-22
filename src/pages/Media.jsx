@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Dune from "../asset/Dune.jpg"
+import Lift from "../asset/Lift.webp"
 import Spotify from "../asset/Spotify.png"
 import Netflix from "../asset/Netflix.png"
 
@@ -136,11 +136,11 @@ function Media() {
           </div>
           <div className='mb-5 flex'>
             <div className='flex items-center w-full bg-[#3d3d3d]'>
-              <img className='w-[120px] h-[110px] md:w-[110px]' src={Dune} alt="Music" />
+              <img className='w-[120px] h-[110px] md:w-[110px]' src={Lift} alt="Music" />
               <div className='pl-2 w-full md:pl-[10px]'>
                 <p className='border-A-writeup border-[1px] px-2 mb-1 text-gray-300 mt-2 inline text-[13px]'>Last Watched</p>
-                <p className='text-[15px] text-gray-300 font-bold mt-[5px]'>Dune: Part Two</p>
-                <p className='text-[15px] text-gray-300  mt-[3px]'>2024 ‧ Sci-fi/Adventure ‧ 2h 46m</p>
+                <p className='text-[15px] text-gray-300 font-bold mt-[5px]'>Lift</p>
+                <p className='text-[15px] text-gray-300  mt-[3px]'>2024 ‧ Comedy/Action ‧ 1h 47m</p>
               </div>
             </div>
           </div>
