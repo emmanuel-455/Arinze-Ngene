@@ -3,6 +3,8 @@ import nimoImage from "./asset/nimo.png";
 import gpt3Image from "./asset/gpt3.png";
 import restauImage from "./asset/restau.png";
 import ticTacToeImage from "./asset/tic tac toe.png";
+import Shazam from "./asset/Shazam.png";
+import Simon from "./asset/Simon.png"
 
 const ProjectContent = [
   {
@@ -35,6 +37,18 @@ const ProjectContent = [
     image: ticTacToeImage,
     site: "https://nimos-project-websites.on.drv.tw/Tic tac toe game/",
     source: "https://github.com/emmanuel-455/tic_tac_toe_game_js"
+  },
+  {
+    id: 6,
+    image: Shazam,
+    site: "https://shazam-api-helper.vercel.app",
+    source: "https://github.com/emmanuel-455/shazam-api-helper"
+  },
+  {
+    id: 7,
+    image: Simon,
+    site: "https://nimos-project-websites.on.drv.tw/Simon%20Game%20JS%20project/",
+    source: "https://nimos-project-websites.on.drv.tw/Simon%20Game%20JS%20project/"
   },
 ];
 
