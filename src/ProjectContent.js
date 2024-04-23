@@ -6,6 +6,7 @@ import ticTacToeImage from "./asset/tic tac toe.png";
 import Shazam from "./asset/Shazam.png";
 import Simon from "./asset/Simon.png"
 import Dice from "./asset/Dice.png"
+import Drum from "./asset/Drum.png"
 
 const ProjectContent = [
   {
@@ -31,7 +32,7 @@ const ProjectContent = [
     image: restauImage,
     heading: "Gericht Restauran (ReactjS)",
     site: "https://my-restaurant-gpt3.vercel.app/",
-    source: "https://github.com/emmanuel-455/myRestaurant_React_project_Design"
+    source: "https://github.com/emmanuel-455/drum_kit_game_js"
   },
   {
     id: 5,
@@ -55,6 +56,12 @@ const ProjectContent = [
     id: 8,
     image: Dice,
     site: "https://nimos-project-websites.on.drv.tw/Dicee%20game%20Js%20project/dicee.html",
+    source: "https://github.com/emmanuel-455/dice_game"
+  },
+  {
+    id: 9,
+    image: Drum,
+    site: "https://nimos-project-websites.on.drv.tw/Drum Kit js/",
     source: "https://github.com/emmanuel-455/dice_game"
   },
 ];
