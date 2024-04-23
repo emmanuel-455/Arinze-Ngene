@@ -5,6 +5,7 @@ import restauImage from "./asset/restau.png";
 import ticTacToeImage from "./asset/tic tac toe.png";
 import Shazam from "./asset/Shazam.png";
 import Simon from "./asset/Simon.png"
+import Dice from "./asset/Dice.png"
 
 const ProjectContent = [
   {
@@ -49,6 +50,12 @@ const ProjectContent = [
     image: Simon,
     site: "https://nimos-project-websites.on.drv.tw/Simon%20Game%20JS%20project/",
     source: "https://nimos-project-websites.on.drv.tw/Simon%20Game%20JS%20project/"
+  },
+  {
+    id: 8,
+    image: Dice,
+    site: "https://nimos-project-websites.on.drv.tw/Dicee%20game%20Js%20project/dicee.html",
+    source: "https://github.com/emmanuel-455/dice_game"
   },
 ];
 
