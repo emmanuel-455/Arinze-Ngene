@@ -10,6 +10,12 @@ import Drum from "./asset/Drum.png"
 
 const ProjectContent = [
   {
+    id: 6,
+    image: Shazam,
+    site: "https://shazam-api-helper.vercel.app",
+    source: "https://github.com/emmanuel-455/shazam-api-helper"
+  },
+  {
     id: 1,
     image: daluWorkImage,
     site: "http://dalu-psi.vercel.app",
@@ -40,12 +46,7 @@ const ProjectContent = [
     site: "https://nimos-project-websites.on.drv.tw/Tic tac toe game/",
     source: "https://github.com/emmanuel-455/tic_tac_toe_game_js"
   },
-  {
-    id: 6,
-    image: Shazam,
-    site: "https://shazam-api-helper.vercel.app",
-    source: "https://github.com/emmanuel-455/shazam-api-helper"
-  },
+  
   {
     id: 7,
     image: Simon,
