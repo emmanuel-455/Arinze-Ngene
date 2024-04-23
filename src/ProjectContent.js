@@ -7,6 +7,7 @@ import Shazam from "./asset/Shazam.png";
 import Simon from "./asset/Simon.png"
 import Dice from "./asset/Dice.png"
 import Drum from "./asset/Drum.png"
+import Searcher from "./asset/Searcher.png"
 
 const ProjectContent = [
   {
@@ -64,6 +65,12 @@ const ProjectContent = [
     image: Drum,
     site: "https://nimos-project-websites.on.drv.tw/Drum Kit js/",
     source: "https://github.com/emmanuel-455/dice_game"
+  },
+  {
+    id: 10,
+    image: Searcher,
+    site: "https://nimos-project-websites.on.drv.tw/image_searcher%20project%20js/",
+    source: "https://github.com/emmanuel-455/unsplash_api_image_search_app"
   },
 ];
 
