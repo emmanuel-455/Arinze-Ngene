@@ -13,7 +13,7 @@ const ProjectContent = [
   {
     id: 6,
     image: Shazam,
-    site: "https://shazam-api-helper.vercel.app",
+    site: "https://shazamify-nu.vercel.app/",
     source: "https://github.com/emmanuel-455/shazam-api-helper"
   },
   {
