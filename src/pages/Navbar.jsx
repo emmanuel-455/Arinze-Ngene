@@ -35,7 +35,7 @@ function Navbar() {
           <p className='text-A-writeup text-sm'>Available to work</p>
         </div>
         <div className='text-wrap text-sm'>
-          <p><a className="underline font-medium" href="mailto:emmanuelarinze455@gmail.com">Email</a></p>
+          <p><a className="underline font-medium" href="mailto:emmanuelarinze455@gmail.com">Email Address</a></p>
         </div>
       </div>
     </motion.div>
