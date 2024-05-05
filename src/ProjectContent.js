@@ -8,10 +8,17 @@ import Simon from "./asset/Simon.png"
 import Dice from "./asset/Dice.png"
 import Drum from "./asset/Drum.png"
 import Searcher from "./asset/Searcher.png"
+import Scorespot from "./asset/Scorespot.png"
 
 const ProjectContent = [
   {
     id: 6,
+    image: Scorespot,
+    site: "https://score-spot.vercel.app/",
+    source: "https://github.com/emmanuel-455/ScoreSpot"
+  },
+  {
+    id: 7,
     image: Shazam,
     site: "https://shazamify-nu.vercel.app/",
     source: "https://github.com/emmanuel-455/shazam-api-helper"
