@@ -1,4 +1,5 @@
 import About from './pages/About';
+import BlogPage from './pages/BlogPage';
 import Footer from './pages/Footer';
 import Info from './pages/Info';
 import Media from './pages/Media';
@@ -17,6 +18,7 @@ function App() {
       />
       <About />
       <Media />
+      <BlogPage />
       <Footer />
     </div>
   );
