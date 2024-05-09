@@ -9,24 +9,25 @@ function BlogPage() {
 
   async function getBlogs() { 
     try {
-      //const apiKey = '';
-      const response = await fetch('https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=b27502994f9247f986a13f3c6f0c9aea');
+      const apiKey = 'b27502994f9247f986a13f3c6f0c9aea';
+      const response = await fetch(`https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=${apiKey}`);
       const data = await response.json();
-
-      // Limit content characters to 200 characters
-      const articles = data.articles.map(article => {
+  
+      // Check if data.articles is defined before mapping over it
+      const articles = data.articles?.map(article => {
         if (article.content && article.content.length > 200) {
           article.content = article.content.substring(0, 200) + '...';
         }
         return article;
-      });
-
+      }) || [];
+  
       setNews(articles);
       console.log(data);
     } catch (err) {
       console.error('Error fetching blogs:', err.message);
     }
   }
+  
 
   return (
     <div id='Blog' className='mt-10 px-3 py-24'>
