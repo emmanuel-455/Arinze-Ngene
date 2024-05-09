@@ -101,7 +101,7 @@ function Media() {
 
   return (
     
-      <div id='Media' className='w-full flex flex-col px-6 justify-center mb-10 items-center'>
+      <div id='Media' className='w-full flex flex-col px-3 justify-center mb-10 items-center'>
         <h1 className="font-semibold pt-24 md:pt-20 mb-10 text-A-writeup text-4xl">Media</h1>
         <div className='flex w-full md:w-[500px] flex-col'>
         <div className='w-full items-center justify-center'>

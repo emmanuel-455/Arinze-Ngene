@@ -34,6 +34,7 @@ function Info() {
             <p className="py-5 font-semibold text-[15px]"><a href="#Project">Project</a></p>
             <p className="py-5 font-semibold text-[15px]"><a href="#About">About</a></p>            
             <p className="py-5 font-semibold text-[15px]"><a href="#Media">Media</a></p>
+            <p className="py-5 font-semibold text-[15px]"><a href="#Blog">TechTidbits</a></p>
           </div>
         </div>
       </div>
