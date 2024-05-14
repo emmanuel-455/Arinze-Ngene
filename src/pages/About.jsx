@@ -13,8 +13,8 @@ import figma from "../asset/figma-stack.svg"
 function About() {
   return (
     <div id="About">
-      <h1 className="font-semibold text-center pt-[100px] md:pt-[144px] mb-10 text-A-writeup text-[30px]">About Me</h1>
-      <div className="md:flex grid items-center md:justify-between md:px-[100px] flex-wrap md:mt-[100px] md:mb-20 mb-12 m-auto">
+      <h1 className="font-semibold text-center pt-[100px] md:pt-[144px] mb-[150px] text-A-writeup text-[30px]">About Me</h1>
+      <div className="md:flex grid items-center md:justify-between md:px-[100px] flex-wrap md:mt-[100px] md:mb-[150px] mb-[150px] m-auto">
         <div className="text-center md:border-s-4 my-5 px-9 md:border-arinze-blue md:pl-16">
           <p className="mb-3 text-arinze-blue font-medium text-[15px]">Experience</p>
           <p className="text-[15px] text-A-writeup">2+ Years</p>
@@ -158,7 +158,7 @@ function About() {
       
 
 
-      <h1 className="font-semibold text-center pt-20 md:pt-[144px] mb-10 text-A-writeup text-[30px]">My Services</h1>
+      <h1 className="font-semibold text-center pt-[150px] md:pt-[200px] mb-[50px] md:mb-[100px] text-A-writeup text-[30px]">My Services</h1>
       <div className='md:flex md:justify-between px-6 md:px-[100px]'>
         <div className=' md:w-[50%] mb-10'>
         <div className='border-b mb-3 text-lg border-arinze-blue'>
