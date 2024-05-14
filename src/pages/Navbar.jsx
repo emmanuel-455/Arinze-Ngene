@@ -31,7 +31,7 @@ function Navbar() {
       </div>
       <div className='top-[80px] md:top-0 absolute md:relative left-[0px] px-[20px] md:left-[0px] right-[0px] flex md:block justify-between items-center'>
         <div className='flex items-center text-nowrap mr-4 w-[170px]'>
-          <div className='w-2 h-2  rounded-full bg-[#57d372] mr-2'></div>
+          <div className='w-2 h-2  rounded-full bg-[#42f368] mr-2'></div>
           <p className='text-A-writeup text-sm'>Available to work</p>
         </div>
         <div className='text-wrap text-sm'>
