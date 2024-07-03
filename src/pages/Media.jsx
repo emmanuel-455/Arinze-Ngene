@@ -3,6 +3,7 @@ import Lift from "../asset/Lift.webp"
 import Spotify from "../asset/Spotify.png"
 import Netflix from "../asset/Netflix.png"
 
+
 function Media() {
   const [songInfo, setSongInfo] = useState({
     songName: "",
@@ -77,7 +78,7 @@ function Media() {
     let access_token;
     const client_id = '04e5f488563f453a9550ff94b3d6295b';
     const client_secret = '9d5fdd0210a645ea998cf0e282efa020';
-    const refresh_token = 'AQAvoj55ir8WPXvrcE_5kMyuQTzXgeA1Fx0BKC2Tz9Peg2bi9WjTLY7Ai3iADcHGG0fOzLzZYc2-eSMb65lGnG-EY_G6D-SnhSRywQn-WyJXmTSH_y0qE9CF87u3vd5133Y';
+    const refresh_token = 'AQDC2dmeaSskPwMs4AV67KSdEJahwX5gGlz3yhFCeOsnMvFGlSPnia1CFE2OyTW_PNBFdg4TTUhTkvlBrYB6Pc8dg-qLOZ_KoDuPU1HxY_5rxjJ0UdNBIddj0eVD-HA4plE';
   
     const updateSongInfo = () => {
       getAccessToken()
